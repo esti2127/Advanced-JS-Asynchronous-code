@@ -61,4 +61,4 @@ Pasos:
 - Con Promise.all() harás que se tenga que resolver todo el proceso de peticiones a GitHub a la vez.
 - Cuando Promise.all() haya terminado:
 Consigue que se imprima por consola la url del repositorio de cada usuario.
-Consigue que se imprima por consola el nombre de cada usuario.
+Consigue que se imprima por consola el nombre de cada usuario."# Bikram-js-asyncho" 
